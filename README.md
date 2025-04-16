@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jc7m4icgy9ag3jgu?svg=true)](https://ci.appveyor.com/project/EliseevaOL/ra16-store-func-main)
